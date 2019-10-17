@@ -1,0 +1,5 @@
+List of websites that provided information to help build a chart in the excel document.
+1) https://www.randstad.ca/best-jobs/best-it-and-technology-jobs/
+2) https://www.thebalancecareers.com/top-jobs-for-computer-science-majors-2059634/
+3) https://www.computerscience.org/careers/
+4) https://www.internationalstudent.com/study-computer-science/careers-in-computer-science/
