@@ -1,0 +1,17 @@
+Reflection on git workflow:
+
+Atom is an alternative to the git workflow. It can do 
+everything that the original GitHub can, but even more.  
+I discovered that Atom featured a lot of customizations 
+including various themes and audio settings. The function 
+that was the most appealing to me was the search bar, I could 
+search for anything and it would generally lead me to what I 
+wish to seek. What I disliked about Atom was that it added 
+many other files that created a confusion and overwhelmed 
+my screen. GitHub presented a clear list of the files that 
+were originally added by choice and had meaning like the 
+README or the LISCENSE files. I believe that Atom would be 
+better choice if someone was aiming to use workflows professionally 
+and required many functions such as a search bar or a shortcut but 
+I would personally chose GitHub over Atom because I like the idea of 
+being able to do 1 function that is clearly shown and understanding it well.  
