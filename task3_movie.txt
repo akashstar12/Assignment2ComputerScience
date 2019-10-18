@@ -1,0 +1,30 @@
+
+1) What was the point made by Bill Gates in his Open Letter to Hobbyists?
+
+Bill Gates starts by mentioning the fact that the hobby market is lacking in good software courses, 
+books and softwares themselves. In addition to the lack of software owners who cannot understand programming 
+are a waste to the potential computers bring to the world. He appended on the subject the fact that hobbyists 
+like himself have worked years to develop a program that works and features no bugs and made it free. He believes 
+that Microsoft is the only one that invested a lot of money into hobby software and that hobbyists who, as an  
+example: re-sell Altair BASIC or other hobbyist created programs ruin the image they have created upon themselves. 
+
+2) What did Richard Stallman describe as an ethical dilemma?
+
+In his life, Richard Stallman has gradually manifested hostility towards the idea of intellectual property and restricted 
+software. In the early 80s, modern computers of that age needed proprietary operating systems. Owners of those types of 
+systems tried to control and restrict their users, not allowing them to share the system with anyone one. That was the ideology  
+that Richard Stallman refused to adopt, instead he chose to go against it. If restricting users to share systems and reducing the  
+potential that computers had to offer was doing the opposite of helping the world then his plan of developing a system that could  
+be distributed would definitely help the planet and its future. He believed that it was morally correct to distribute knowledge,  
+encourage its user to share it and then form a community then to restrict the knowledge. Both ideologies clashed and it created a moral dilemma. 
+
+
+3) What are the freedoms that enable people to form a community?
+
+They are many key points to building a community but there are some that help enable people to be free and not restricted by others. 
+For the society that is interested in computers or businesses, there are some program developers that restrict the users and 
+there are some that donates the liberty to them. Those that wish to give freedom encourage users to make changes to their programs 
+that they created shared for free. Those that make changes are also encouraged to redistribute the program whether they improved it 
+or completely changed its goal to be beneficial to the community formed. As long as anyone is not charged for improving a program, 
+the community remains free and will always receive the freedom to modify and then potentially be useful to the entire world which will 
+begin a chain of endless improvements as long as the users have the liberty to change the programs. 
